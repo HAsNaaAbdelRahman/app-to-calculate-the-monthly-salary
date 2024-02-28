@@ -9,7 +9,7 @@ Basic Salary : 176 * Wage
 OverTime : additional Hours * hourly cost * 1.25 
 
 
-- Types of Employes -
+## - Types of Employees -
 - Directors : manager's allowance (5% of Total Salary)
 - Maintenance : hardship allowance ($100 / month)
 - Sales : commission percentage on volume of sale
